@@ -1,5 +1,7 @@
 # 🎮 skillz - Load Skills Easily for Your Clients
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/mugoherick12-boop-skillz)
+
 ## 🚀 Getting Started
 Welcome to **skillz**! This application lets you load skills onto an MCP server, helping non-Claude clients interact effortlessly. Follow the steps below to download and run the software smoothly.
 
